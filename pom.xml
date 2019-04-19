@@ -10,5 +10,6 @@
     <modules>
         <module>microservice-discovery-eureka</module>
         <module>microservice-edge-user</module>
+        <module>microservice-provider-user</module>
     </modules>
 </project>
